@@ -6,7 +6,7 @@
 [![Devto Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/busramemis)
 [![Codepen Badge](https://img.shields.io/badge/Codepen-0A0A0A?style=for-the-badge&logo=Codepen&logoColor=white)](https://codepen.io/busramemis)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/busramemis/busramemis/main/dev.gif?token=AGKKXFWKH3OEA3PPWZPNHXTB2GJ4G" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/busramemis/busramemis/blob/main/dev.gif?raw=true" width="500"/>
 
 ## **✨About me**
 
