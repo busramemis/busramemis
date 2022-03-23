@@ -13,7 +13,7 @@
 - 👩‍💻 Front end developer
 - 🏡 I’m currently working on [Spinmatic Entertainment](https://spinmatic.com/)
 - 📌 Live in Istanbul, Turkey
-- ⚙️ Working on: `.html` `.pug` `.css` `.scss` `.js` `.ts`
+- ⚙️ Working on: `.html` `.pug` `.css` `.scss` `.js` 
 - 💬 I love to write blog in [turkish](https://medium.com/@busramemis) & [english](https://dev.to/busramemis)
 - 🥅 2022 Goals: Contribute to Open Source projects
 - 📫 You can get in touch with me by [email](mailto:busramemis.10@gmail.com)
