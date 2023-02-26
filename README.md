@@ -18,5 +18,5 @@
 - 🥅 2023 Goals: Contribute to Open Source projects
 - 📫 You can get in touch with me by [email](mailto:busramemis.10@gmail.com)
 
-## Snake eating my contribution graph
+
 ![snake gif](https://github.com/busramemis/busramemis/blob/output/github-contribution-grid-snake.gif)
